@@ -6,7 +6,9 @@ We create **property management systems (PMS)** purpose-built for the complexity
 **Quick links**
 - Website: https://www.softwareanswers.com/
 - Oscar: https://www.softwareanswers.com/products/oscar
+- Oscar API: https://softwareanswers.com/api
 - CodeOne: https://www.softwareanswers.com/products/codeone
+- res:harmonics: https://softwareanswers.com/products/resharmonics
 
 ---
 
@@ -34,28 +36,24 @@ Our platform supports operators with multi-location execution, contract-driven b
 ## Products
 
 ### Oscar
-**The operational and financial backbone for mature, multi-market long-term stay operators.**
+**The operational and financial backbone for long-term stay accommodation providers**
 
-Oscar is a modern, web-based PMS that unites daily operations and **ERP-grade accounting** in one platform — managing reservations, unit readiness, workflows, billing, and **audit-ready financials** without fragile handoffs.
+A modern, web-based PMS that unites daily operations and ERP-grade accounting purpose-built for corporate housing, serviced apartments, relocation, and insurance lodging.
 
 Learn more: https://www.softwareanswers.com/products/oscar
 
 ### CodeOne
-**Automation-first clarity for modern long-term stay operations.**
+**Automation-first clarity for modern long-term stay operations**
 
-CodeOne is a modern SaaS platform for operators growing operators who’ve outgrown spreadsheets and lightweight tools — delivering faster, more accurate workflows and **trusted financials (without ERP overhead)**.
+A modern SaaS platform for long-term stay accommodation providers who’ve outgrown spreadsheets and lightweight tools—delivering faster, more accurate workflows and trusted financials.
 
 Learn more: https://www.softwareanswers.com/products/codeone
 
+### res:harmonics
+**Purpose-built for flexible living. Proven across serviced apartments, coliving, and build-to-rent.**
+
+A Property Management System for operators who need to flex across short, medium, and long stay without switching systems.
+
+Learn more: https://softwareanswers.com/products/resharmonics
+
 ---
-
-## What this GitHub org is for
-
-This org is a public entry point for developer-facing assets related to Software Answers, including (as available):
-
-- API references and data access examples
-- SDKs / client libraries
-- Data format schemas and exports guidance
-- Public docs and supporting resources
-
-> **Note:** This repository/org does **not** contain the production application source code for Oscar or CodeOne.
